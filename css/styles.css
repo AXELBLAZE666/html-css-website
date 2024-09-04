@@ -262,6 +262,8 @@ ul {
 .about{
     background: url(../images/c837a6_1164bd9a80a84d56b72dfd9692fd0c03~mv2.webp);
     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .cutting-svg{
